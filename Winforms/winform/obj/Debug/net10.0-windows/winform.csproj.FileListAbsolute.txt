@@ -1,0 +1,14 @@
+C:\Users\hetsu\.dotnet\winform\bin\Debug\net10.0-windows\winform.exe
+C:\Users\hetsu\.dotnet\winform\bin\Debug\net10.0-windows\winform.deps.json
+C:\Users\hetsu\.dotnet\winform\bin\Debug\net10.0-windows\winform.runtimeconfig.json
+C:\Users\hetsu\.dotnet\winform\bin\Debug\net10.0-windows\winform.dll
+C:\Users\hetsu\.dotnet\winform\bin\Debug\net10.0-windows\winform.pdb
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.AssemblyInfoInputs.cache
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.AssemblyInfo.cs
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.csproj.CoreCompileInputs.cache
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.dll
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\refint\winform.dll
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.pdb
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\winform.genruntimeconfig.cache
+C:\Users\hetsu\.dotnet\winform\obj\Debug\net10.0-windows\ref\winform.dll
