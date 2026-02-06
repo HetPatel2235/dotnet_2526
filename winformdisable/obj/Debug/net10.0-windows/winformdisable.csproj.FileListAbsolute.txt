@@ -1,0 +1,15 @@
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.AssemblyInfoInputs.cache
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.AssemblyInfo.cs
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.csproj.CoreCompileInputs.cache
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.sourcelink.json
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\bin\Debug\net10.0-windows\winformdisable.exe
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\bin\Debug\net10.0-windows\winformdisable.deps.json
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\bin\Debug\net10.0-windows\winformdisable.runtimeconfig.json
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\bin\Debug\net10.0-windows\winformdisable.dll
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\bin\Debug\net10.0-windows\winformdisable.pdb
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.dll
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\refint\winformdisable.dll
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.pdb
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\winformdisable.genruntimeconfig.cache
+C:\Users\hetsu\.dotnet\dotnet_2526\winformdisable\obj\Debug\net10.0-windows\ref\winformdisable.dll
